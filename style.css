@@ -2,6 +2,7 @@
 * {
   margin: 0;
   font-family: 'Figtree';
+  box-sizing: border-box;
 }
 
 body {
@@ -31,12 +32,12 @@ p {
   border: solid 1px hsl(0, 0%, 7%);
   border-radius: 15px;
   box-shadow: 15px 15px hsl(0, 0%, 7%);
-  
 }
 
 img {
   border-radius: 15px;
-  margin: 20px;  
+  margin: 20px; 
+  width: fit-content;
 }
 
 .autor{
@@ -76,7 +77,7 @@ img {
 
 .autor img {
   height: 40px;
-
+  width: 40px;
 }
 
 .autor .nombre-autor {
@@ -90,4 +91,17 @@ img {
 
 .attribution a { 
   color: hsl(228, 45%, 44%); 
+}
+
+@media(max-width:400px) {
+  .tarjeta{
+      height: 450px;
+      width: 300px;
+  }
+  img{
+      width: 260px;      
+  }
+  .textos h1{
+      font-size: 20px;
+  }
 }
