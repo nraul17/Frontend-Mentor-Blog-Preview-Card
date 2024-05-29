@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ As you can see, the card works on both desktop and mobile devices. This is very 
 
 ### Links
 
-- Solution URL: [Find the solution here--->](https://github.com/nraul17/Frontend-Mentor-QR-Code.git)
+- Solution URL: [Find the solution here--->](https://github.com/nraul17/Frontend-Mentor-Blog-Preview-Card/tree/main)
 
 ## My process
 
